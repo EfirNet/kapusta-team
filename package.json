@@ -2,7 +2,7 @@
   "name": "team-project-react-kapusta",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://victor1988v.github.io/team-project-react-kapusta/",
+  "homepage": "https://EfirNet.github.io/kapusta-team/",
   "dependencies": {
     "@emotion/styled": "^11.10.5",
     "@handy-ones/handy-svg": "^1.0.2",
@@ -60,11 +60,11 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Victor1988V/team-project-react-kapusta.git"
+    "url": "git+https://github.com/EfirNet/kapusta-team.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Victor1988V/team-project-react-kapusta/issues"
+    "url": "https://github.com/EfirNet/kapusta-team/issues"
   }
 }

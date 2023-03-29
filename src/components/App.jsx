@@ -64,7 +64,7 @@ export const App = () => {
   return (
     !isFetchingUser && (
       <>
-        <BrowserRouter basename="team-project-react-kapusta">
+        <BrowserRouter>
           {/* <BrowserRouter> */}
           <Routes>
             <Route path="/" element={<SharedLayouts />}>
