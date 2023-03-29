@@ -64,7 +64,7 @@ export const App = () => {
   return (
     !isFetchingUser && (
       <>
-        <BrowserRouter>
+        <BrowserRouter basename="/">
           {/* <BrowserRouter> */}
           <Routes>
             <Route path="/" element={<SharedLayouts />}>
