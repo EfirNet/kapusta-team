@@ -2,7 +2,7 @@
   "name": "team-project-react-kapusta",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://EfirNet.github.io/kapusta-team/",
+  "homepage": "https://k-apusta.vercel.app/",
   "dependencies": {
     "@emotion/styled": "^11.10.5",
     "@handy-ones/handy-svg": "^1.0.2",
